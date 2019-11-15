@@ -1,28 +1,3 @@
 {
-  "heroes":[
-	{
-		"hn": "Mino Cece",
-		"twr": 50,
-		"cwr": 45.8,
-		"mp": 214
-	},
-	{
-		"hn": "Franco",
-		"twr": 50,
-		"cwr": 43.6,
-		"mp": 179
-	},
-	{
-		"hn": "Akai Cece",
-		"twr": 50,
-		"cwr": 47.4,
-		"mp": 631
-	},
-	{
-		"hn": "Grock Cece",
-		"twr": 50,
-		"cwr": 45.6,
-		"mp": 287
-	}
-]
+  "heroes":[]
 }
